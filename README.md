@@ -19,6 +19,24 @@ Software model made in proteus:
 
 ![image](https://github.com/viswajeet893389/Automatic-Car-Parking-System/assets/67750747/6e8bbc68-4833-43ce-bbd2-75ee9bae6761)
 
+4.  LCD shows the number of empty slots. 
+
+![image](https://github.com/viswajeet893389/Automatic-Car-Parking-System/assets/67750747/083b7c59-21b3-4f79-a99f-8dc7065fd0b2)
+
+5. If the password doesn’t match with the one entered by the user and in the database, then the motor doesn’t rotate and a string is displayed “Outside Person No Slot For You”.
+
+![image](https://github.com/viswajeet893389/Automatic-Car-Parking-System/assets/67750747/3f5553ac-c9e2-4520-9af4-55f7d696d03d)
+
+6. When the car is going outside then the driver has to show the RFID tag again to authorize that he is the proprietor of car. If the password matches then the Exit Gate opens and after that closes.
+
+![image](https://github.com/viswajeet893389/Automatic-Car-Parking-System/assets/67750747/f235b145-4e7a-41e8-8662-66f7f89b277a)
+
+7. LCD shows the updated number of empty slots.
+
+![image](https://github.com/viswajeet893389/Automatic-Car-Parking-System/assets/67750747/54cc34c8-182b-436c-a7f8-81bc34910421)
+
+
+
 
 
 
